@@ -1,0 +1,345 @@
+codigo_nacional;codigo_agroclima;ID;estacion;categoria;lat;long;altitud;comuna;region;anio_creacion;Nota
+180047;;INIA-81;Azapa Alto;INIA;-18.577499;-69.947221;838;Arica;Arica y Parinacota;2010;
+180036;;INIA-39;Azapa Medio;INIA;-18.547777;-70.124721;393;Arica;Arica y Parinacota;2009;
+180035;;INIA-156;Belén;INIA;-18.467777;-69.515;3271;Putre;Arica y Parinacota;2015;
+180039;;INIA-150;Caleta Vitor;INIA;-18.781388;-70.283888;88;Arica;Arica y Parinacota;2015;
+190009;;INIA-77;Camarones;INIA;-19.010555;-69.857222;100;Camarones;Arica y Parinacota;2013;
+180037;;INIA-63;Cerro Blanco;INIA;-18.574999;-70.069721;525;Arica;Arica y Parinacota;2014;
+180042;;EXT-117;Cerro Sombrero ;DMC;-18.5125;-70.265555;122;Arica;Arica y Parinacota;2017;
+180901;;INIA-137;Chaca;INIA;-18.815833;-70.152222;343;Arica;Arica y Parinacota;1976;
+180006;;INIA-152;Chapiquiña;INIA;-18.394999;-69.53611;3390;Putre;Arica y Parinacota;1962;
+180041;;INIA-76;Codpa;INIA;-18.832499;-69.745555;1870;Camarones;Arica y Parinacota;2013;
+NA;;EXT-69;Concordia Medio;ANPROS;-18.36;-70.29;115;Arica;Arica y Parinacota;NA;Fuera de línea
+190011;;INIA-204;Cuya;INIA;-19.161944;-70.180832;97;Camarones;Arica y Parinacota;2017;
+180018;;EXT-121;Defensa Civil;DMC;-18.49111;-70.301388;71;Arica;Arica y Parinacota;2017;
+NA;;EXT-72;La Violeta Open;ANPROS;-18.51;-70.21;199;Arica;Arica y Parinacota;NA;Fuera de línea
+180031;;INIA-80;Lago Chungará;INIA;-18.280832;-69.138055;4570;Putre;Arica y Parinacota;2010;
+180032;;INIA-75;Lluta Alto;INIA;-18.39361;-69.963333;895;Arica;Arica y Parinacota;2011;
+180033;;INIA-34;Lluta Bajo;INIA;-18.413611;-70.206111;0;Arica;Arica y Parinacota;2010;
+180034;;INIA-38;Lluta Medio;INIA;-18.452222;-70.067221;532;Arica;Arica y Parinacota;2009;
+180045;;INIA-302; Pampa Concordia;INIA;-18.363055;-70.301944;65;Arica;Arica y Parinacota;2018;
+180029;;INIA-134;Putre;INIA;-18.196944;-69.553888;3577;Putre;Arica y Parinacota;2014;
+180017;;EXT-120; Putre DMC;DMC;-18.2;-69.5625;3532;Putre;Arica y Parinacota;2016;
+180048;;INIA-79;Salar de Surire;INIA;-18.794721;-69.084444;4269;Putre;Arica y Parinacota;2017;
+180030;;INIA-43;Socoroma;INIA;-18.263888;-69.607777;3077;Putre;Arica y Parinacota;2009;
+180038;;INIA-149;Ticnamar;INIA;-18.579999;-69.495833;3220;Putre;Arica y Parinacota;2017;
+170007;;INIA-78;Visviri;INIA;-17.594721;-69.475277;4122;General Lagos;Arica y Parinacota;2012;
+200006;;EXT-99;Aeropuerto Diego Aracena;DMC;-20.549166;-70.18111;48;Iquique;Tarapacá;1981;
+200011;;INIA-202;Pica;INIA;-20.501388;-69.342499;1325;Pica;Tarapacá;2017;
+NA;;EXT-60;Salar de Huasco;UPLA;-20.25;-68.87;3804;Pica;Tarapacá;NA;Fuera de línea
+200010;;EXT-123;Universidad Arturo Prat;DMC;-20.270832;-70.130832;30;Iquique;Tarapacá;2017;
+220002;;EXT-125;Aeródromo El Loa;DMC;-22.498055;-68.892499;2321;Calama;Antofagasta;2010;
+230024;;INIA-218;Altos la Portada;INIA;-23.504166;-70.404722;105;Antofagasta;Antofagasta;2017;
+220023;;INIA-61;Calama Rural;INIA;-22.47111;-68.943055;2244;Calama;Antofagasta;2010;
+230023;;INIA-216;Camar;INIA;-23.407222;-67.963611;2694;San Pedro de Atacama;Antofagasta;2017;
+220022;;INIA-56;Caspana;INIA;-22.334444;-68.213611;3245;Calama;Antofagasta;2012;
+240005;;EXT-202;Cerro Paranal;ESO;-24.627499;-70.404722;2648;Antofagasta;Antofagasta;2018;
+250007;;INIA-225;La Cachina;INIA;-25.433888;-70.453333;213;Taltal;Antofagasta;2017;
+230021;;EXT-203;Llano de Chajnantor;ESO;-23.005833;-67.759166;5000;San Pedro de Atacama;Antofagasta;2018;
+230022;;EXT-177;Mejillones;DMC;-23.109166;-70.443333;31;Mejillones;Antofagasta;2018;
+210007;;INIA-62;Ollagüe;INIA;-21.223888;-68.255555;3706;Ollagüe;Antofagasta;2010;
+NA;;EXT-124;Ollagüe;DMC;-21.22;-68.25;3708;Ollagüe;Antofagasta;NA;Fuera de línea
+220024;;INIA-59;San Pedro de Atacama;INIA;-22.932221;-68.213333;2416; San Pedro de Atacama;Antofagasta;2010;
+230020;;INIA-57;Socaire;INIA;-23.590555;-67.889999;3357;San Pedro de Atacama;Antofagasta;2010;
+250005;;EXT-128;Taltal;DMC;-25.411111;-70.484166;37; Taltal;Antofagasta;2012;
+230004;;EXT-127;Toconao;DMC;-23.18611;-68.005555;2495;San Pedro de Atacama;Antofagasta;1998;
+230019;;INIA-58;Toconao;INIA;-23.190555;-68.007222;2478;San Pedro de Atacama;Antofagasta;2010;
+220009;;EXT-126;Universidad Católica del Norte;DMC;-22.905833;-68.196944;2450;Antofagasta;Antofagasta;2016;
+NA;542;EXT-971;Altar de la Virgen;APECO;-27.99;-69.98;1385;Tierra Amarilla;Atacama;NA;Data Logger  (?)
+NA;535;EXT-968;Amalfi;APECO;-27.41;-70.3;421;Copiapó;Atacama;NA;Data Logger  (?)
+270013;;INIA-97;Amolana;INIA;-27.959722;-70.01;1090;Tierra Amarilla;Atacama;2012;
+NA;;EXT-27;Cachiyuyo;CEAZA;-29.057;-70.905;950;Vallenar;Atacama;2013;
+NA;541;EXT-964;Casa Rosada;APECO;-27.84;-70.08;1292;Tierra Amarilla;Atacama;NA;Data Logger  (?)
+280021;;INIA-65;CE Huasco;INIA;-28.58111;-70.798333;470;Vallenar;Atacama;2011;
+NA;536;EXT-966;Copayapu;APECO;-27.45;-70.26;502;Tierra Amarilla;Atacama;NA;Data Logger  (?)
+260009;;INIA-223;Falda Verde;INIA;-26.299721;-70.624166;127;Chañaral;Atacama;2017;
+280010;;EXT-130;Freirina Nicolasa;DMC;-28.516943;-71.01;156;Freirina;Atacama;2016;
+270021;;INIA-224;La Copa;INIA;-27.345555;-70.621943;188;Copiapó;Atacama;2017;
+NA;408;EXT-967;Las Canteras;APECO;-27.74;-70.12;872;Tierra Amarilla;Atacama;NA;Data Logger  (?)
+NA;546;EXT-969;María Isabel;APECO;-27.33;-70.78;146;Tierra Amarilla;Atacama;NA;Data Logger  (?)
+NA;547;EXT-965;Mayorquina;APECO;-27.33;-70.56;233;Copiapó;Atacama;NA;Fuera de línea
+NA;537;EXT-970;Nantoco;APECO;-27.55;-70.26;649;Tierra Amarilla;Atacama;NA;Data Logger  (?)
+270009;;EXT-129;Universidad de Atacama;DMC;-27.358888;-70.353333;362;Copiapó;Atacama;2016;
+290004;;EXT-100;Aeródromo La Florida;DMC;-29.914444;-71.206666;137;La Serena;Coquimbo;1954;
+300056;;INIA-304;Ajial de Quiles;INIA;-30.920277;-71.384166;464;Punitaqui;Coquimbo;2019;
+300043;;INIA-64;Algarrobo Bajo;INIA;-30.633054;-71.451388;80;Ovalle;Coquimbo;2011;
+NA;;INIA-74;Campo Lindo;INIA;-30.69;-71.32;290;Ovalle;Coquimbo;NA;Data Logger  (?)
+NA;;EXT-24;Canela;CEAZA;-31.390888;-71.412983;350;Canela;Coquimbo;2013;
+NA;;EXT-62;Cerro Grande;CEAZA;-29.93;-71.22;513;La Serena;Coquimbo;NA;Fuera de línea
+NA;;EXT-954;Cerro La Silla;DMC;-29.25;-70.73;2377;La Higuera;Coquimbo;NA;Fuera de línea
+300054;;INIA-229;Chaguaral;INIA;-30.857222;-70.730554;1194;Monte Patria;Coquimbo;2016;
+NA;;EXT-25;Chillepín;CEAZA;-31.88563;-70.71395;887;Salamanca;Coquimbo;2013;
+NA;;EXT-35;Collowara;CEAZA;-30.248749;-71.065259;1281;Andacollo;Coquimbo;2014;
+NA;;EXT-29;Combarbalá Sur;CEAZA;-31.200223;-71.000149;1136;Combarbalá;Coquimbo;2013;
+300045;;INIA-66;El Palqui;INIA;-30.774443;-70.926943;504;Monte Patria;Coquimbo;2011;
+NA;;EXT-11;El Panul;CEAZA;-29.998736;-71.39852;122;Coquimbo;Coquimbo;2004;
+NA;;EXT-64;El Polvo;CEAZA;-31.18;-70.58;2561;Monte Patria;Coquimbo;NA;Fuera de línea
+NA;;EXT-10;El Romeral;CEAZA;-29.754064;-71.257442;162;La Serena;Coquimbo;2004;
+NA;;EXT-32;El Tapado;CEAZA;-30.1583;-69.908179;4306;Vicuña;Coquimbo;2013;
+300034;;EXT-131;El Tololo;DMC;-30.168332;-70.803611;2154;Vicuña;Coquimbo;1995;
+300024;;EXT-101;Escuela Agrícola;DMC;-30.579999;-71.186666;310;Ovalle;Coquimbo;1978;
+NA;;EXT-63;Estero Derecho;CEAZA;-30.38407;-70.412858;3020;Paiguano;Coquimbo;2016;
+NA;;EXT-43;Fray Jorge Bosque;IEB;-30.64;-71.68;541;Ovalle;Coquimbo;NA;Fuera de línea
+NA;;EXT-42;Fray Jorge Quebrada;IEB;-30.65;-71.66;230;Ovalle;Coquimbo;NA;Fuera de línea
+NA;;EXT-14;Gabriela Mistral;CEAZA;-29.97852;-71.080386;198;La Serena;Coquimbo;2004;
+NA;;EXT-61;Guandacol;CEAZA;-30.543625;-70.33290088;2983;Río Hurtado;Coquimbo;2016;
+NA;;EXT-40;Hualtatas;CEAZA;-31.707322;-70.525002;3632;Salamanca;Coquimbo;2014;
+310043;;INIA-220;Huentelauquén;INIA;-31.58861;-71.509722;22;Canela;Coquimbo;2017;
+NA;;EXT-19;Huintil;CEAZA;-31.573305;-70.998152;590;Illapel;Coquimbo;2010;
+NA;;EXT-5; Illapel;CEAZA;-31.64814;-71.196947;275;Illapel;Coquimbo;2009;
+NA;;EXT-26;La Laguna - Elqui;CEAZA;-30.203112;-70.037224;3209;Vicuña;Coquimbo;2013;
+300055;;INIA-305;La Polvareda;INIA;-30.882777;-71.239721;265;Punitaqui;Coquimbo;2018;
+NA;;EXT-38;Laguna Hurtado;CEAZA;-30.509027;-70.445937;2500;Río Hurtado;Coquimbo;2013;
+NA;;EXT-7;Las Cardas;CEAZA;-30.251452;-71.256903;282;Coquimbo;Coquimbo;2012;
+NA;;INIA-323;Las Naranjas;INIA;-30.86;-71.4;560;Ovalle;Coquimbo;2022;
+NA;;EXT-20;Lavaderos;CEAZA;-30.3093;-70.625646;1462;Río Hurtado;Coquimbo;2013;
+310023;;EXT-172;Liceo Padre José Herde;DMC;-31.389999;-71.412777;343;Canela;Coquimbo;1997;
+310024;;EXT-173;Liceo Samuel Román Rojas;DMC;-31.188055;-70.998888;936;Combarbalá;Coquimbo;1997;
+NA;;INIA-319;Los Acacios;INIA;-30.700483;-71.286422;254;Ovalle;Coquimbo;2021;
+NA;;EXT-23;Los Molles - Bocatoma;CEAZA;-30.745997;-70.419232;2543;Monte Patria;Coquimbo;2011;
+NA;;EXT-33;Mincha Sur;CEAZA;-31.594247;-71.42159;50;Canela;Coquimbo;2013;
+300047;;EXT-103;Monte Patria - Centro Cultural;DMC;-30.698333;-70.957777;406;Monte Patria;Coquimbo;2017;
+NA;;EXT-12;Pan de Azúcar;CEAZA;-30.074646;-71.238945;135;Coquimbo;Coquimbo;2004;
+300046;;EXT-102;Parque Los Pimientos;DMC;-30.03361;-70.697221;642;Vicuña;Coquimbo;2017;
+NA;;EXT-28;Pichasca;CEAZA;-30.41323;-70.90277;670;Río Hurtado;Coquimbo;2013;
+NA;;EXT-8;Pisco Elqui;CEAZA;-30.129028;-70.494712;1240;Paiguano;Coquimbo;2004;
+NA;;EXT-31;Punta Colorada;CEAZA;-29.3541129;-71.0328595;379;La Higuera;Coquimbo;2013;
+NA;;EXT-6;Punta de Choros;CEAZA;-29.24724;-71.467969;7;La Higuera;Coquimbo;2011;
+NA;;EXT-16;Quebrada Seca;CEAZA;-30.496129;-71.490506;183;Ovalle;Coquimbo;2012;
+320002;;INIA-221;Quilimarí;INIA;-32.116943;-71.490833;15;Los Vilos;Coquimbo;1961;
+NA;;EXT-1;Rapel;CEAZA;-30.722798;-70.772488;862;Monte Patria;Coquimbo;2012;
+NA;;EXT-2;Rivadavia;CEAZA;-29.96173;-70.539081;900;Vicuña;Coquimbo;2010;
+NA;;EXT-18;Talhuén;CEAZA;-30.592033;-71.247966;292;Ovalle;Coquimbo;2013;
+NA;;EXT-37;Tascadero;CEAZA;-31.262951;-70.539993;3427;Monte Patria;Coquimbo;2012;
+NA;;EXT-194;Tilama;CEAZA;-32.081625;-71.162773;499;Los Vilos;Coquimbo;2013;
+NA;;EXT-15;UCN Guayacan;CEAZA;-29.96663;-71.352844;1;Coquimbo;Coquimbo;2011;
+NA;;EXT-36;Universidad de La Serena;CEAZA;-29.915015;-71.242214;90;La Serena;Coquimbo;2014;
+NA;;EXT-13;Vicuña;CEAZA;-30.038318;-70.696553;634;Vicuña;Coquimbo;2004;
+310040;;EXT-174;Vivero CONAF;DMC;-31.632499;-71.151944;333;Illapel;Coquimbo;2018;
+330007;;EXT-135;Aeródromo Rodelillo;DMC;-33.065277;-71.556388;330;Viña del Mar;Valparaíso;1965;
+330030;;EXT-139;Aeródromo Santo Domingo;DMC;-33.656111;-71.613333;77;Santo Domingo;Valparaíso;1966;
+320041;;EXT-175;Aeródromo Torquemada;DMC;-32.949444;-71.47611;141;Concón;Valparaíso;1988;
+270001;;EXT-116;Aeropuerto Mataveri;DMC;-27.158888;-109.432499;44;Isla de Pascua;Valparaíso;1937;
+320015;;EXT-133;Catapilco;DMC;-32.569999;-71.305555;85;Zapallar;Valparaíso;1924;
+320055;;EXT-972;Catemu;DMC;-32.758888;-70.942777;443;Catemu;Valparaíso;2001;
+330189;;INIA-213;Colliguay;INIA;-33.16861;-71.155833;580;Quilpué;Valparaíso;2017;
+330191;;INIA-167;Cuncumén;INIA;-33.73611;-71.421666;168;San Antonio;Valparaíso;2017;
+NA;;INIA-165;El Maqui;INIA;-32.75;-71.24;179;Puchuncaví;Valparaíso;NA;Estación nueva?
+320024;;EXT-192;Escuela Agrícola;DMC;-32.784444;-70.687777;716;San Felipe;Valparaíso;1969;
+330006;;EXT-134;Jardín Botánico;DMC;-33.044999;-71.501944;50;Viña del Mar;Valparaíso;1959;
+330031;;EXT-140;Juan Fernández;DMC;-33.635833;-78.833054;40;Juan Fernández;Valparaíso;2010;
+320097;;INIA-51;La Cruz;INIA;-32.843055;-71.212777;153;La Cruz;Valparaíso;2019;
+320045;;EXT-104;Las Peñas;DMC;-32.881388;-70.913055;436;Llaillay;Valparaíso;1993;
+320049;;EXT-105;Liceo Agrícola Chincolco;DMC;-32.222499;-70.831666;665;Petorca;Valparaíso;1996;
+330161;;EXT-167;Lo Zarate;DMC;-33.530554;-71.506111;103;Cartagena;Valparaíso;2018;
+320051;;EXT-132;Los Libertadores;DMC;-32.845555;-70.119166;2955;Los Andes;Valparaíso;1998;
+320056;;EXT-106;Quintero - Climatológica;DMC;-32.784166;-71.522777;5;Quintero;Valparaíso;2018;
+NA;;EXT-195;Rapa Nui;DGA;-27.11;-109.3;0;Isla de Pascua;Valparaíso;NA;Fuera de línea
+330121;;EXT-150;Aeródromo Curacaví;DMC;-33.411111;-71.167777;208;Curacaví;RM;2015;
+330019;;EXT-136;Aeródromo Eulogio Sánchez;DMC;-33.455277;-70.54861;650;La Reina;RM;1954;
+330111;;EXT-142;Cerro San Francisco;DMC;-33.458055;-70.94861;1068;Lo Prado;RM;2012;
+NA;;INIA-313;Chacabuco;INIA;-33.24;-70.72;700;Colina;RM;NA;Estación nueva?
+330076;;EXT-141;Chorombo Hacienda;DMC;-33.529443;-71.229166;145;María Pinto;RM;1991;Fuera de línea
+NA;;INIA-314;Chorrillos;INIA;-33.34;-70.81;485;Lampa;RM;NA;Estación nueva?
+340146;;INIA-210;El Asiento;INIA;-34.029166;-70.994999;351;Alhué;RM;2017;
+330077;;EXT-108;El Colorado;DMC;-33.35;-70.29361;2750;Lo Barnechea;RM;1991;
+330160;;EXT-109;El Milagro;DMC;-33.754444;-70.764444;460;Buin;RM;2018;
+330190;;INIA-311; El Oasis;INIA;-33.286388;-70.83611;485;Lampa;RM;2020;
+330113;;EXT-144;El Paico;DMC;-33.706388;-71.008055;275;Talagante;RM;2013;
+NA;;INIA-320;El Parrón;INIA;-33.5;-71.08;166;María Pinto;RM;2022;
+NA;;INIA-315;El Villorrio;INIA;-33.56;-70.87;406;Padre Hurtado;RM;NA;Estación nueva?
+330901;;EXT-143;Guayacán;DMC;-33.64361;-70.350277;1016;San José del Maipo;RM;2012;
+NA;;INIA-318;La Aurora;INIA;-33.42;-71.02;205;Curacaví;RM;NA;Estación nueva?
+330193;;EXT-973;La Dormida;DMC;-33.04944;-71.00139;1450;Tiltil;RM;2022;
+330026;;INIA-4;La Platina;INIA;-33.572777;-70.619721;630;La Pintana;RM;1965;
+330118;;EXT-149;Lo Pinto;DMC;-33.268054;-70.732221;512;Colina;RM;2013;
+330065;;INIA-6;Los Tilos;INIA;-33.711666;-70.711944;525;Buin;RM;1983;
+330021;;EXT-138;Pudahuel;DMC;-33.378332;-70.787777;482;Pudahuel;RM;1967;
+330020;;EXT-137;Quinta Normal;DMC;-33.444999;-70.682777;520;Quinta Normal;RM;2010;
+330162;;EXT-179;Regimiento de Colina;DMC;-33.162222;-70.643055;755;Colina;RM;2019;
+330141;;INIA-162;Rinconada - U de Chile;INIA;-33.497221;-70.845555;462;Maipú;RM;2016;
+330151;;INIA-100;San Antonio de Naltahua;INIA;-33.725554;-71.042499;249;Isla de Maipo;RM;2013;
+330114;;EXT-145;San Pablo - DASA;DMC;-33.442221;-70.746666;490;Pudahuel;RM;2013;
+330158;;INIA-101;San Pedro de Melipilla;INIA;-33.898055;-71.452777;145;San Pedro;RM;2013;
+NA;;INIA-316;Santa Amelia;INIA;-33.66;-70.91;360;Talagante;RM;NA;Estación nueva?
+330071;;EXT-118;Talagante;DMC;-33.670277;-70.849444;390;Talagante;RM;1991;
+NA;;INIA-321;Valdivia de Paine;INIA;-33.79;-70.84;360;Buin;RM;NA;Estación nueva?
+340116;;EXT-153;Aeródromo La Independencia;DMC;-34.169443;-70.771666;487;Rancagua;O´Higgins;2019;
+340115;;EXT-110;Aeródromo Pichilemu;DMC;-34.394166;-72.01861;25;Pichilemu;O´Higgins;2017;
+NA;;EXT-78;Codelco;DMC;-34.19;-70.57;1185;Machalí;O´Higgins;NA;Fuera de línea
+340098;;INIA-163;El Arenal;INIA;-34.355833;-70.991388;266;Quinta de Tilcoco;O´Higgins;2016;
+340113;;INIA-52;El Tambo;INIA;-34.47111;-70.986944;250;San Vicente;O´Higgins;2010;
+340102;;INIA-55;Hidango;INIA;-34.1125;-71.797221;296;Litueche;O´Higgins;2010;
+330192;;INIA-307;Licanchen;INIA;-33.929721;-71.801111;24;Navidad;O´Higgins;2019;
+340149;;INIA-228;Liceo Jean Buchanan;INIA;-34.397221;-71.164722;185;Peumo;O´Higgins;2017;
+340066;;EXT-155;Nilahue - La Quebrada;DMC;-34.660833;-71.735277;81;Pumanque;O´Higgins;1996;
+NA;;INIA-317;Peor es Nada;INIA;-34.78;-71.04;283;Chimbarongo;O´Higgins;2021;
+340148;;INIA-217;Puente Negro;INIA;-34.386388;-71.985833;10;Pichilemu;O´Higgins;2017;
+340048;;EXT-154;Quimávida;DMC;-34.215;-70.996944;316;Coltauco;O´Higgins;1989;
+340147;;INIA-303;Rayentué;INIA;-34.321666;-70.833888;376;Rengo;O´Higgins;2018;
+340031;;EXT-152;Aeródromo General Freire;DMC;-34.969443;-71.216943;229;Curicó;Maule;2010;
+NA;;EXT-958;Camarico;AGRICHILE;-35.27;-71.36;223;Río Claro;Maule;NA;Fuera de línea
+350021;;INIA-46;Cauquenes;INIA;-35.956111;-72.289999;162;Cauquenes;Maule;1970;
+350070;;INIA-22;Chanco;INIA;-35.706666;-72.511388;60;Chanco;Maule;2010;
+360047;;EXT-161;Copihue;DMC;-36.075554;-71.758055;162;Retiro;Maule;2016;
+360049;;INIA-12;Coronel de Maule;INIA;-36.059166;-72.477777;172;Cauquenes;Maule;2009;
+350095;;INIA-214;Deuca;INIA;-35.127777;-71.955833;48;Curepto;Maule;2017;
+350901;;EXT-974;Escuela de Artillería Linares;INIA;-35.836944;-71.592777;160;Linares;Maule;2021;
+350097;;INIA-212;Lomas;INIA;-35.835555;-72.587499;172;Pelluhue;Maule;2017;
+360050;;INIA-14;Los Despachos;INIA;-36.062222;-72.371388;167;Cauquenes;Maule;2010;
+NA;;EXT-963;Los Niches;AGRICHILE;-35.05;-71.14;273;Curicó;Maule;NA;Fuera de línea
+350096;;INIA-227;Miraflores;INIA;-35.818054;-71.774999;124;Longaví;Maule;2017;
+360055;;INIA-154;Monte Flor-Tucapel;INIA;-36.244721;-71.934166;548;Parral;Maule;2015;
+350028;;EXT-156;Panguilemo;DMC;-35.377777;-71.601111;119;Talca;Maule;1991;
+NA;;EXT-960;Parral;AGRICHILE;-36.19;-71.82;180;Parral;Maule;2010;Data Logger  (?)
+350064;;INIA-135;San Clemente;INIA;-35.530554;-71.479443;221;San Clemente;Maule;2014;
+350094;;INIA-215;San Jorge Los Niches;INIA;-35.091666;-71.120554;310;Curicó;Maule;2017;
+NA;;EXT-959;San Sebastián;AGRICHILE;-35.29;-71.54;144;Río Claro;Maule;NA;Data Logger  (?)
+350073;;INIA-136;Santa Amada;INIA;-35.760833;-71.574166;150;Linares;Maule;2014;
+350078;;INIA-7;Santa Sofía;INIA;-35.977777;-72.36;151;Cauquenes;Maule;2009;
+350071;;INIA-11;Sauzal;INIA;-35.715;-72.111388;162;Cauquenes;Maule;2009;
+360011;;EXT-157;Aeródromo Gral. Bernardo O'Higgins;DMC;-36.585833;-72.036666;155;Chillán;Ñuble;1939;
+360060;;INIA-139;CE Arroz;INIA;-36.409166;-72.006666;162;San Carlos;Ñuble;2015;
+360046;;EXT-160;Chillán Mayulermo;DMC;-36.828054;-71.866943;397;San Ignacio;Ñuble;2016;
+360075;;INIA-73;Navidad;INIA;-36.907222;-71.935555;314;El Carmen;Ñuble;2011;
+360059;;INIA-47;Ninhue;INIA;-36.398055;-72.395277;91;Chillán;Ñuble;2010;
+360068;;INIA-24;Nueva Aldea;INIA;-36.648888;-72.513611;82;Ránquil;Ñuble;2009;
+360062;;INIA-23;Portezuelo;INIA;-36.531943;-72.368332;109;Portezuelo;Ñuble;2010;
+360091;;INIA-211;Puralihue;INIA;-36.43111;-72.647777;36;Treguaco;Ñuble;2017;
+NA;;EXT-961;San Gregorio;AGRICHILE;-36.28;-71.82;180;Ñiquén;Ñuble;NA;
+NA;;INIA-17;Santa Rosa;INIA;-36.53;-71.91;194;Chillán;Ñuble;NA;Data Logger  (?)
+360042;;EXT-158;Termas de Chillán;DMC;-36.903611;-71.41;1708;Pinto;Ñuble;2012;
+370044;;INIA-49;Yungay;INIA;-37.141388;-72.011666;265;Yungay;Ñuble;2010;
+380082;;EXT-975; Aeródromo Isla Mocha;DMC;-38.383888;-73.869166;16;Lebu;Bio Bío;2022;
+380080;;EXT-955;Aeródromo Lequecahue;DMC;-38.35944;-73.48833;153;Tirúa;Bio Bío;NA;Información no disponible
+370033;;EXT-229; Aeródromo María Dolores;DMC;-37.396944;-72.423888;118;Los Ángeles;Bio Bío;1941;
+360019;;EXT-111;Carriel Sur;DMC;-36.780554;-73.066388;13;Concepción;Bio Bío;1968;
+360076;;INIA-15;Chiguayante;INIA;-36.913611;-73.035555;23;Chiguayante;Bio Bío;2013;
+NA;;INIA-322;Contulmo Urbano;INIA;-38.01;-73.23;46;Contulmo;Bio Bío;NA;
+NA;;EXT-65;Dichato;UCONCE;-36.54;-72.93;0;Tomé;Bio Bío;NA;Fuera de línea
+NA;;INIA-36;GTT Peleco;INIA;-37.75;-73.44;125;Cañete;Bio Bío;NA;Data Logger  (?)
+370011;;INIA-21;Human;INIA;-37.43361;-72.243888;195;Los Ángeles;Bio Bío;1942;
+NA;;INIA-312;La Colonia;INIA;-37.28;-72.59;120;Laja;Bio Bío;2021;
+370074;;INIA-308;Las Puentes;INIA;-37.305;-73.436666;120;Arauco;Bio Bío;2019;
+370054;;INIA-84;Lebu;INIA;-37.682499;-73.522221;194;Lebu;Bio Bío;2012;
+370036;;EXT-162; Liceo Agrícola El Huertón;DMC;-37.456944;-72.274999;173;Los Angeles;Bio Bío;1996;
+380042;;INIA-161;Ponotro;INIA;-38.275277;-73.49861;143;Tirúa;Bio Bío;2016;
+360069;;INIA-10;Punta Parra;INIA;-36.672499;-72.964722;190;Tomé;Bio Bío;2009;
+360092;;INIA-310;Santa Lucía;INIA;-36.697499;-72.704166;268;Florida;Bio Bío;2019;
+380013;;EXT-163;Aeródromo Maquehue;DMC;-38.767777;-72.631943;86;Padre las Casas;La Araucanía;1941;
+380029;;EXT-165;Aeropuerto Araucanía;DMC;-38.934444;-72.653333;96;Freire;La Araucanía;2014;
+380046;;INIA-147;Caballería (Ex San Fabián);INIA;-38.446388;-72.849444;197;Galvarino;La Araucanía;2015;
+NA;;EXT-962;Caracas;AGRICHILE;-39.01;-72.32;208;Cunco;La Araucanía;NA;
+380009;;INIA-8;Carillanca;INIA;-38.693055;-72.417221;200;Vilcún;La Araucanía;1964;
+380076;;INIA-239;Collimallin;INIA;-38.606666;-72.701111;60;Temuco;La Araucanía;2018;
+390034;;INIA-40;Cuarta Faja;INIA;-39.115555;-72.605277;115;Gorbea;La Araucanía;2009;
+380061;;INIA-29;Dominguez;INIA;-38.91861;-73.240277;93;Saavedra;La Araucanía;2009;
+380059;;INIA-141;El Membrillo;INIA;-38.834166;-71.682499;527;Melipeuco;La Araucanía;2015;
+380078;;INIA-164;El Quincho;INIA;-38.913055;-72.18361;293;Cunco;La Araucanía;2016;
+370075;;INIA-237;El Vergel;INIA;-37.827777;-72.659722;81;Angol;La Araucanía;2018;
+390051;;INIA-168;Faja Maisan;INIA;-39.07111;-72.921943;56;Pitrufquén;La Araucanía;2017;
+380073;;INIA-206;Gaby Ranquilco;INIA;-38.116943;-72.88361;76;Lumaco;La Araucanía;2017;
+390035;;INIA-140;Huiscapi;INIA;-39.263333;-72.398888;266;Villarrica;La Araucanía;2015;
+370067;;EXT-180;Húsares;DMC;-37.795833;-72.684444;69;Angol;La Araucanía;2019;
+380034;;INIA-157;La Isla;INIA;-38.029999;-72.981943;76;Purén;La Araucanía;2016;
+390054;;INIA-208;La Paz;INIA;-39.428054;-72.71861;86;Loncoche;La Araucanía;2017;
+380043;;INIA-33;La Providencia;INIA;-38.291944;-72.611388;254;Traiguén;La Araucanía;2009;
+380041;;INIA-146;Las Palmas;INIA;-38.227777;-72.273332;388;Victoria;La Araucanía;2015;
+380062;;INIA-31;Llollinco;INIA;-38.976943;-72.997777;24;Teodoro Schmidt;La Araucanía;2009;
+380018;;EXT-164;Lonquimay;DMC;-38.455;-71.361944;912;Lonquimay;La Araucanía;2013;
+390052;;INIA-203;Los Arrayanes;INIA;-39.165277;-73.133054;8;Toltén;La Araucanía;2017;
+370061;;INIA-144;Manzanares;INIA;-37.772499;-72.54611;88;Renaico;La Araucanía;2015;
+380033;;EXT-79;Maquehue - UFRO;DMC;-38.837777;-72.694444;74;Freire;La Araucanía;2014;
+380056;;INIA-148;Marimenuco;INIA;-38.731666;-71.140833;1084;Lonquimay;La Araucanía;2015;
+380074;;INIA-238;Pailahueque;INIA;-38.145555;-72.298333;379;Ercilla;La Araucanía;2018;
+380052;;INIA-138;Perales;INIA;-38.66389;-72.80889;55;Cholchol;La Araucanía;2015;
+390036;;INIA-142;Puala;INIA;-39.381943;-71.572499;393;Curarrehue;La Araucanía;2015;
+380051;;INIA-28;Quiripio;INIA;-38.639721;-73.244166;322;Carahue;La Araucanía;2009;
+380079;;INIA-233;Radal;INIA;-38.985555;-72.381666;168;Freire;La Araucanía;2018;
+380063;;EXT-181;Regimiento Victoria;DMC;-38.228888;-72.343333;336;Victoria;La Araucanía;2019;
+390053;;INIA-205;San Enrique;INIA;-39.261666;-71.868054;279;Pucón;La Araucanía;2017;
+380044;;INIA-48;San Luis;INIA;-38.401666;-71.9025;549;Curacautín;La Araucanía;2010;
+380072;;INIA-209;San Rafael;INIA;-38.070554;-72.724166;173;San Rafael;La Araucanía;2017;
+380075;;INIA-235;San Sebastián;INIA;-38.435;-72.39889;299;Perquenco;La Araucanía;2018;
+380057;;INIA-41;Santa Adela;INIA;-38.75611;-72.89139;50;Nueva Imperial;La Araucanía;2010;
+NA;;INIA-143;Santa Inés;INIA;-38.5;-72.34;263;Lautaro;La Araucanía;2015;No está diponible el código
+380035;;INIA-145;Surco y Semilla;INIA;-38.032499;-72.285277;379;Collipulli;La Araucanía;2015;
+380077;;INIA-236;Taplon;INIA;-38.833054;-72.506388;130;Padre las Casas;La Araucanía;2018;
+NA;;EXT-74;Temuco;ANPROS;-32.82;-72.43;157;Temuco;La Araucanía;NA;Fuera de línea
+380054;;INIA-18;Tranapuente;INIA;-38.690833;-73.353333;64;Carahue;La Araucanía;2009;
+390028;;EXT-75;Villarrica;DMC;-39.189999;-72.112222;393;Villarrica;La Araucanía;2015;
+390006;;EXT-80;Aeropuerto Pichoy;DMC;-39.656666;-73.087221;18;Mariquina;Los Ríos;1965;
+390040;;INIA-151;Austral;INIA;-39.787499;-73.234444;15;Valdivia;Los Ríos;2015;
+390043;;EXT-112;Corral - ESSAL;DMC;-39.889999;-73.42611;24;Corral;Los Ríos;2018;
+400039;;INIA-71;El Cardal;INIA;-40.386666;-72.919166;80;Río Bueno;Los Ríos;2011;
+400034;;INIA-72;Lago Verde;INIA;-40.165;-72.633888;248;Paillaco;Los Ríos;2011;
+390039;;INIA-99;Las Lomas;INIA;-39.700833;-73.014722;22;Máfil;Los Ríos;2013;
+400058;;EXT-976;Liceo Agrotec;DMC;-40.31;-73.003888;60;La Unión;Los Ríos;2022;
+400035;;INIA-132;Palermo;INIA;-40.259166;-73.106666;78;La Unión;Los Ríos;2013;
+390029;;EXT-82;Panguipulli;DMC;-39.634444;-72.343888;229;Panguipulli;Los Ríos;2016;
+400041;;INIA-155;Rucatayo;INIA;-40.598888;-72.586666;278;Río Bueno;Los Ríos;2015;
+390038;;INIA-102;Santa Carla;INIA;-39.679443;-72.611388;264;Los Lagos;Los Ríos;2013;
+430002;;EXT-200;Aeródromo de Futaleufú;DMC;-43.188888;-71.852222;347;Futaleufú;Los Lagos;1953;
+430001;;EXT-193;Aeródromo de Quellón;DMC;-43.13361;-73.632777;13;Quellón;Los Lagos;1950;
+400009;;EXT-201;Aeropuerto de Cañal Bajo;DMC;-40.614444;-73.0575;61;Osorno;Los Lagos;1952;
+410005;;EXT-113;Aeropuerto El Tepual;DMC;-41.447499;-73.095833;87;Puerto Montt;Los Lagos;1963;Si no hay en puerto varas revisar puerto mont
+400033;;EXT-83;Bahía Mansa;DMC;-40.586666;-73.735277;102;San Juan de la Costa;Los Lagos;2016;
+420016;;INIA-25;Butalcura;INIA;-42.261666;-73.650833;148;Dalcahue;Los Lagos;2009;
+410041;;INIA-207;Carelmapu;INIA;-41.709722;-73.672221;29;Maullín;Los Lagos;2017;
+410031;;INIA-69;Colegual;INIA;-41.221943;-73.259722;177;Llanquihue;Los Lagos;2011;
+400044;;INIA-104;Desagüe Rupanco;INIA;-40.752777;-72.663888;272;Puyehue;Los Lagos;2013;
+410032;;INIA-105;Ensenada;INIA;-41.233333;-72.516111;76;Puerto Varas;Los Lagos;2013;
+410027;;EXT-85;Escuela Mirasol;DMC;-41.479443;-72.968888;100;Puerto Montt;Los Lagos;2017;
+400057;;INIA-201; Huacamapu;INIA;-40.65917;-73.49167;144;San Juan de la Costa;Los Lagos;2017;
+420017;;INIA-20;Huyar Alto;INIA;-42.403888;-73.568054;155;Curaco de Vélez;Los Lagos;2009;
+420023;;INIA-232;Isla Chelin;INIA;-42.58917;-73.53278;33;Castro;Los Lagos;2018;
+400027;;INIA-45;La Pampa;INIA;-40.860555;-73.156944;97;Purranque;Los Lagos;1980;
+410026;;EXT-84;Liceo Agrícola de Ancud;DMC;-41.866111;-73.816388;31;Ancud;Los Lagos;2014;
+410036;;INIA-26;Los Canelos;INIA;-41.481388;-73.474443;105;Los Muermos;Los Lagos;2009;
+420015;;EXT-86;Nueva Chaitén;DMC;-42.78528;-72.835;26;Chaitén;Los Lagos;2014;
+400047;;INIA-70;Octay;INIA;-40.957222;-72.885555;178;Puerto Octay;Los Lagos;2011;
+420021;;INIA-230;Pid-Pid;INIA;-42.41167;-73.78389;81;Castro;Los Lagos;2018;
+410030;;INIA-68;Polizones;INIA;-41.115277;-73.376666;137;Fresia;Los Lagos;2011;
+410040;;EXT-114;Puerto Varas - ESSAL;DMC;-41.324443;-72.976666;70;Puerto Varas;Los Lagos;2018;
+400037;;INIA-133;Quilacahuin;INIA;-40.348055;-73.3075;17;San Pablo;Los Lagos;2014;
+410028;;INIA-50;Quilanto;INIA;-41.030554;-72.99611;161;Frutillar;Los Lagos;2011;
+420022;;INIA-231;Quilquico;INIA;-42.491388;-73.708888;109;Castro;Los Lagos;2018;
+400011;;INIA-19;Remehue;INIA;-40.522221;-73.063611;73;Osorno;Los Lagos;1972;
+420024;;INIA-67;Tara;INIA;-42.703611;-73.78861;145;Chonchi;Los Lagos;2011;
+420020;;INIA-309;Tenaún;INIA;-42.31278;-73.39972;130;Dalcahue;Los Lagos;2019;
+450005;;EXT-222;Aeródromo Balmaceda;DMC;-45.918332;-71.677777;517;Coyhaique;Aisén;1950;
+430009;;EXT-198;Aeródromo Melinka;DMC;-43.897777;-73.739444;8;Guaitecas;Aisén;2009;
+450001;;EXT-88;Aeródromo Puerto Aysén;DMC;-45.39944;-72.67722;11;Aisén;Aisén;1931;
+450004;;EXT-89;Aeródromo Teniente Vidal;DMC;-45.590833;-72.102222;299;Coyhaique;Aisén;1943;
+450025;;INIA-234;Arroyo el Gato;INIA;-45.162777;-71.94361;504;Coyhaique;Aisén;2019;
+460013;;INIA-226;Bajada Ibañez;INIA;-46.18055;-72.04333;523;Río Ibáñez;Aisén;2017;
+460010;;INIA-13;Chile Chico;INIA;-46.543333;-71.699166;213;Chile Chico;Aisén;2009;
+470007;;INIA-32;Cochrane;INIA;-47.241666;-72.582221;246;Cochrane;Aisén;2009;
+450019;;INIA-98;El Claro;INIA;-45.58111;-72.092221;319;Coyhaique;Aisén;2012;
+430012;;INIA-166;La Junta;INIA;-43.916943;-72.387221;40;Cisnes;Aisén;2017;
+450022;;EXT-197;Mirador Marchant;DMC;-45.52528;-72.09806;438;Coyhaique;Aisén;2018;
+450026;;INIA-301;Ñirehuao;INIA;-45.24972;-71.69417;510;Coyhaique;Aisén;2018;
+460014;;INIA-306;Puerto Ibañez;INIA;-46.27833;-71.94139;225;Río Ibáñez;Aisén;2019;
+440004;;EXT-87;Puyuhuapi;DMC;-44.323332;-72.555277;11;Cisnes;Aisén;2016;
+480002;;EXT-90;Subcomisaría de Villa O'Higgins;DMC;-48.47139;-72.56028;280;O’Higgins;Aisén;1996;
+450020;;INIA-16;Tamelaike;INIA;-45.759166;-72.061944;470;Coyhaique;Aisén;2009;
+NA;;EXT-66;Tortel;UCONCE;-47.8;-73.54;0;Tortel;Aisén;2015;
+450021;;INIA-44;Vista Hermosa;INIA;-45.936944;-71.835277;740;Coyhaique;Aisén;2010;
+530005;;EXT-95;Aeródromo Fuentes Martínez;DMC;-53.253611;-70.32611;25;Porvenir;Magallanes;1985;
+510005;;EXT-91;Aeródromo Teniente Gallardo;DMC;-51.667221;-72.528888;69;Natales;Magallanes;1983;
+550001;;EXT-97;Aeropuerto Guardiamarina Zañartu;DMC;-54.931666;-67.615555;12;Cabo de Hornos;Magallanes;1959;
+950001;;EXT-98;Base Eduardo Frei Montalva;DMC;-62.191944;-58.979721;45;Antártica;Magallanes;1969;
+510011;;INIA-159;Cerro Castillo;INIA;-51.176943;-72.435833;115;Torres del Paine;Magallanes;2016;
+520030;;EXT-176;Cerro Sombrero MA;DMC;-52.776388;-69.294721;64;Primavera;Magallanes;2018;
+520031;;INIA-219;Estancia 5 de Enero;INIA;-52.432499;-70.360555;113;San Gregorio;Magallanes;2017;
+530029;;INIA-222;Estancia Zenia;INIA;-53.319443;-69.698055;151;Porvenir;Magallanes;2017;
+520012;;EXT-92;Instituto de la Patagonia;DMC;-53.129999;-70.887499;11;Punta Arenas;Magallanes;1953;
+530010;;INIA-103;Isla Riesco;INIA;-53.030554;-71.93361;68;Río Verde;Magallanes;2012;
+520011;;INIA-37;Kampenaike;INIA;-52.611944;-70.943333;6;Laguna Blanca;Magallanes;1977;
+540008;;EXT-115;Pampa Guanaco;DMC;-54.050833;-68.803888;150;Timaukel;Magallanes;2017;
+510004;;INIA-35;Puerto Natales;INIA;-51.724166;-72.510555;7;Natales;Magallanes;1983;
+530011;;INIA-82;Punta Arenas Rural;INIA;-53.068332;-70.873888;50;Punta Arenas;Magallanes;2011;
+510020;;EXT-956;Río Serrano;DMC;-51.21667;-72.97028;22;Torres del Paine;Magallanes;2022;
+520027;;INIA-83;Tierra del Fuego;INIA;-52.805555;-69.27361;58;Primavera;Magallanes;2011;
+520014;;EXT-93;Unidad Aeropolicial;DMC;-53.152777;-70.926388;53;Punta Arenas;Magallanes;2013;
+520015;;EXT-94;Villa Tehuelche;DMC;-52.428888;-71.416111;176;Laguna Blanca;Magallanes;2016;
